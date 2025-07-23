@@ -26,8 +26,7 @@ Key Features:
 **Node version 18.x.x**
 
 ### Cloning the repository
-https://github.com/Mr-Mohan-Anand/LMS-RPA-WEB
-
+[git clone https://github.com/Mr-Mohan-Anand/LMS-RPA-WEB.git](https://github.com/Mr-Mohan-Anand/LMS-RPA-WEB.git)
 ```shell
 ```
 
