@@ -28,7 +28,6 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-[git clone https://github.com/s-1-n-t-h/LMS-RPA.git](https://github.com/s-1-n-t-h/LMS-RPA.git)
 ```
 
 ### Install packages
